@@ -1,0 +1,9 @@
+Beer:
+  - id: 1
+    name: "Appenzeller Vollmond"
+    price: 3.5
+    alcohol: 5.2
+  - id: 2
+    name: "Appenzeller Weizenbier"
+    price: 3.5
+    alcohol: 5
