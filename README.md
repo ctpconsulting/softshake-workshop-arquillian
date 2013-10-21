@@ -2,7 +2,7 @@
 
 ### What is this?
 
-**Java EE testing revisited with Arquillian** is a 2,5 hours workshop created for [SoftShake 2013](http://soft-shake.ch/2013/en/) conference, by JBoss community members: Bartosz Majsak from [Cambridge Technology Partners](http://www.ctp.com/) and Alexis Hassler from Sewatech.
+**Java EE testing revisited with Arquillian** is a 2,5 hours workshop created for [SoftShake 2013](http://soft-shake.ch/2013/en/) conference, by JBoss community members: Bartosz Majsak from [Cambridge Technology Partners](http://www.ctp.com/) and Alexis Hassler from [Sewatech](http://www.sewatech.fr).
 
 This repository is intended for storing all the labs and other complementary materials used during the workshop.
 
