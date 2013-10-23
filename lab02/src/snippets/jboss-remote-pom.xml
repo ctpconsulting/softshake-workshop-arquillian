@@ -1,0 +1,33 @@
+<dependency>
+  <groupId>org.jboss.as</groupId>
+  <artifactId>jboss-as-arquillian-container-remote</artifactId>
+  <version>${version.jbossas_7}</version>
+  <scope>test</scope>
+</dependency>
+
+<dependency>
+  <groupId>org.jboss.arquillian.protocol</groupId>
+  <artifactId>arquillian-protocol-servlet</artifactId>
+  <scope>test</scope>
+</dependency>
+
+<dependency>
+  <artifactId>arquillian-transaction-jta</artifactId>
+  <groupId>org.jboss.arquillian.extension</groupId>
+  <version>${version.arquillian_transaction}</version>
+  <scope>test</scope>
+</dependency>
+
+<dependency>
+  <groupId>org.jboss.spec</groupId>
+  <artifactId>jboss-javaee-web-6.0</artifactId>
+  <version>${version.jboss_spec}</version>
+  <type>pom</type>
+  <scope>provided</scope>
+  <exclusions>
+    <exclusion>
+      <groupId>org.apache.xalan</groupId>
+      <artifactId>xalan</artifactId>
+    </exclusion>
+  </exclusions>
+</dependency>
