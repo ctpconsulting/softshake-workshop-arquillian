@@ -30,6 +30,14 @@
     <version.jboss_spec>3.0.1.Final</version.jboss_spec>
   </properties>
 
+  <repositories>
+    <repository>
+      <id>thirdparty-releases</id>
+      <name>JBoss Thirdparty Releases</name>
+      <url>https://repository.jboss.org/nexus/content/repositories/thirdparty-releases</url>
+    </repository>
+  </repositories>
+
   <dependencyManagement>
     <dependencies>
       <dependency>
